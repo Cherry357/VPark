@@ -29,7 +29,9 @@ con = mysql.connector.connect(
 )
 
 2. Run the Application:
-# in terminal run 
+#in terminal run 
 streamlit run app.py
-Darshan Krishna
+
+
+#Darshan Krishna
 💼 Student / Developer
